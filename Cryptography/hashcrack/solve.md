@@ -9,7 +9,7 @@ Understanding the character length of different hash types:
 
 ## Tools Used
 - Hash Identifier: https://hashes.com/en/tools/hash_identifier
-- MD5 Decoder: https://www.dcode.fr/md5-hash
+- MD5 Decoder: https://www.dcode.fr
 
 ## Step-by-Step Solution
 
