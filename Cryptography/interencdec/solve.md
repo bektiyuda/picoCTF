@@ -2,7 +2,6 @@
 
 ## What I Learned
 
-Understanding the character length of different hash types:
 - Magic tools from CyberChef to identified any cryptography things
 - Nested Base64 Encoding
 - Caesar Cipher
